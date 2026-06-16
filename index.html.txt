@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nataly Leivas | Marketing & Growth</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+
+    <div class="container">
+
+        <div class="hero">
+
+            <div class="hero-text">
+
+                <h1>Nataly Leivas</h1>
+
+                <h2>Marketing Digital • Growth Marketing • SEO</h2>
+
+                <p>
+                    Profissional de Marketing e Comunicação com experiência em SEO, CRM, Branding, Growth Marketing, Analytics e campanhas digitais.
+                </p>
+
+                <div class="buttons">
+
+                    <a href="https://linkedin.com/in/natalyleivas" target="_blank" class="btn">
+                        LinkedIn
+                    </a>
+
+                    <a href="#projetos" class="btn-outline">
+                        Ver Projetos
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</header>
+
+<section id="sobre">
+
+    <div class="container">
+
+        <h2>Sobre Mim</h2>
+
+        <p>
+            Formada em Relações Públicas, com experiência em Marketing Digital, Growth, CRM, SEO e análise de dados. Atuação em planejamento de campanhas, retenção de clientes, geração de leads e comunicação integrada.
+        </p>
+
+    </div>
+
+</section>
+
+<section id="skills">
+
+    <div class="container">
+
+        <h2>Habilidades</h2>
+
+        <div class="cards">
+
+            <div class="card">Growth Marketing</div>
+            <div class="card">SEO</div>
+            <div class="card">CRM</div>
+            <div class="card">Google Analytics</div>
+            <div class="card">Google Ads</div>
+            <div class="card">Meta Ads</div>
+            <div class="card">Power BI</div>
+            <div class="card">Excel</div>
+            <div class="card">HubSpot</div>
+            <div class="card">RD Station</div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="projetos">
+
+    <div class="container">
+
+        <h2>Projetos</h2>
+
+        <div class="carousel">
+
+            <button class="prev">&#10094;</button>
+
+            <div class="carousel-track">
+
+                <img src="images/doe.jpg" alt="Campanha de Doação">
+
+                <img src="images/convite.jpg" alt="Evento Beneficente">
+
+                <img src="images/em.jpg" alt="Esclerose Múltipla">
+
+                <img src="images/otimizalog.jpg" alt="Otimiza Log">
+
+                <img src="images/descontanet.jpg" alt="Descontanet">
+
+            </div>
+
+            <button class="next">&#10095;</button>
+
+        </div>
+
+        <div class="descricao">
+
+            <h3>Projetos de Marketing e Comunicação</h3>
+
+            <p>
+                Desenvolvimento de campanhas institucionais, materiais educativos, peças promocionais, branding, comunicação social e marketing digital.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="experiencia">
+
+    <div class="container">
+
+        <h2>Experiência</h2>
+
+        <div class="exp">
+
+            <h3>Analista de Marketing</h3>
+
+            <p>
+                Planejamento de campanhas, SEO, CRM, análise de dados, geração de leads e dashboards.
+            </p>
+
+        </div>
+
+        <div class="exp">
+
+            <h3>Assistente de Marketing</h3>
+
+            <p>
+                Comunicação interna, redes sociais, conteúdo e suporte às campanhas.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section id="contato">
+
+    <div class="container">
+
+        <h2>Contato</h2>
+
+        <p>
+            Vamos conversar?
+        </p>
+
+        <a href="https://linkedin.com/in/natalyleivas" target="_blank" class="btn">
+            LinkedIn
+        </a>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <p>© 2026 Nataly Leivas</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
